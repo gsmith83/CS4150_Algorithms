@@ -1,0 +1,5 @@
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Release\TripPlanner.exe.config
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Release\TripPlanner.exe
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Release\TripPlanner.pdb
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\obj\Release\TripPlanner.exe
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\obj\Release\TripPlanner.pdb

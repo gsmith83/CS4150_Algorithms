@@ -1,0 +1,6 @@
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Debug\TripPlanner.exe.config
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Debug\TripPlanner.exe
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\bin\Debug\TripPlanner.pdb
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\obj\Debug\TripPlanner.csprojResolveAssemblyReference.cache
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\obj\Debug\TripPlanner.exe
+C:\workspace_training\CS4150_Algorithms\TripPlanner\TripPlanner\TripPlanner\obj\Debug\TripPlanner.pdb
